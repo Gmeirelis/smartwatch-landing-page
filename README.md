@@ -13,8 +13,8 @@ Uma landing page moderna apresentando o **SmartWatch Pulse**, destacando design,
 ## 🌐 Veja ao vivo
 
 👉 **Acesse aqui:**  
-https://seu-usuario.github.io/seu-repositorio/  
-*(substitua pelo link do GitHub Pages quando publicar)*
+
+![veja](https://gmeirelis.github.io/smartwatch-landing-page/)
 
 ---
 
