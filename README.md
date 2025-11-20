@@ -36,4 +36,4 @@ Este projeto foi desenvolvido para praticar e demonstrar habilidades em criaçã
 
 1. Baixe ou clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Gmeirelis/smartwatch-landing-page.git
