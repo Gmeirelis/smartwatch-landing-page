@@ -1,3 +1,3 @@
 # SmartWatch Pulse
 
-![previa](img-page/page-relogio)
+![previa](img-page/page-relogio.png)
